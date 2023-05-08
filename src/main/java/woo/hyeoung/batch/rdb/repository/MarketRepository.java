@@ -1,8 +1,8 @@
-package woo.hyeoung.batch.repository;
+package woo.hyeoung.batch.rdb.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import woo.hyeoung.batch.domain.MARKET;
+import woo.hyeoung.batch.rdb.domain.MARKET;
 
 import java.math.BigDecimal;
 

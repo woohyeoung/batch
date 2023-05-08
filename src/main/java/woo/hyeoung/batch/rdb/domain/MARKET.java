@@ -1,4 +1,4 @@
-package woo.hyeoung.batch.domain;
+package woo.hyeoung.batch.rdb.domain;
 
 import lombok.Getter;
 

@@ -17,6 +17,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import woo.hyeoung.batch.domain.*;
+import woo.hyeoung.batch.rdb.domain.MARKET;
 
 import javax.persistence.EntityManagerFactory;
 import java.math.BigDecimal;
